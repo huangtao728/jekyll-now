@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am JHT.
 
-### More Information
+### What's This?
 
-A place to include any other types of information that you'd like to include about yourself.
+It's a place to write something I like.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tao@jht.io](mailto:tao@jht.io)
